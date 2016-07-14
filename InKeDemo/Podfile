@@ -1,0 +1,13 @@
+platform:ios,'8.0'
+target 'InKeDemo' do
+pod 'AFNetworking', '~> 2.0'
+pod 'YYKit'
+pod 'CYLTabBarController'
+pod 'FDFullscreenPopGesture'
+pod 'UITableView+FDTemplateLayoutCell'
+pod 'MBProgressHUD'
+pod 'MJRefresh'
+pod 'SwipeView'
+pod 'ODRefreshControl'
+pod 'BarrageRenderer'
+end
